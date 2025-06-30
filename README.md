@@ -1,5 +1,6 @@
 # aws-lambda-injection
 #🧠Inspiration
+
 Modern cloud-native systems rely heavily on microservices and serverless architecture like AWS Lambda. While convenient, they are also vulnerable to unpredictable failures and cascading issues. Inspired by the principles of Chaos Engineering—popularized by Netflix’s Chaos Monkey—we wanted to intentionally inject failures into Lambda functions to make systems more resilient, fault-tolerant, and observable. The goal was to empower developers to test their assumptions and prepare for real-world failures before they happen in production.
 
 ##⚙️What it does
